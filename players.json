@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ömer Faruk",
+    "position": "Forvet",
+    "number": 9,
+    "photo": "assets/player1.jpg"
+  },
+  {
+    "name": "Ali Yılmaz",
+    "position": "Orta Saha",
+    "number": 8,
+    "photo": "assets/player2.jpg"
+  }
+]
