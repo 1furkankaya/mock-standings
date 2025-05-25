@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "team": "Kolibri Ağrı Spor",
+    "played": 30,
+    "won": 20,
+    "drawn": 6,
+    "lost": 4,
+    "gf": 60,
+    "ga": 25,
+    "points": 66,
+    "logo": "assets/logo.png"
+  },
+  {
+    "rank": 2,
+    "team": "Van FK",
+    "played": 30,
+    "won": 18,
+    "drawn": 8,
+    "lost": 4,
+    "gf": 54,
+    "ga": 28,
+    "points": 62,
+    "logo": "assets/other-logo1.png"
+  },
+  {
+    "rank": 3,
+    "team": "Erzurum BB",
+    "played": 30,
+    "won": 17,
+    "drawn": 7,
+    "lost": 6,
+    "gf": 50,
+    "ga": 30,
+    "points": 58,
+    "logo": "assets/other-logo2.png"
+  }
+]
